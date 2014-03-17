@@ -49,3 +49,6 @@ sarcastic applause|clap - Get sarcastic applause
 ship it - Display a motivation squirrel
 ```
 
+You can also run `slackbot help` in any room to get a more up to date list.
+
+
